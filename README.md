@@ -6,7 +6,7 @@
 ### <div align="center">I'm Karim, a back-end developer.</div>  
   
 
-- 🔭 I’m currently landing a remote job.  
+- 🔭 I’m currently working on landing a remote job.  
   
 
 - 🌱 I’m currently learning IOS development and Kubernetes  
