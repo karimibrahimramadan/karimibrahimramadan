@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on landing a remote job.  
   
 
-- 🌱 I’m currently learning IOS development and Kubernetes  
+- 🌱 I’m currently learning Frontend development
   
 
 - ❓ Ask me about anything related to Node.Js  
